@@ -63,7 +63,6 @@ Formula_1_Grand_Prix_result_prediction/
 │
 ├── Data_Files/ # All raw data CSVs
 ├── notebooks/ # Jupyter notebooks for EDA & modeling
-├── models/ # Trained model files (if any)
 ├── utils/ # Helper functions
 └── README.md # Project overview and guide
 ```
